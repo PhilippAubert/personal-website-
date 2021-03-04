@@ -1,4 +1,4 @@
 # Hello, this is my personal website. 
 
-## Philipp Aubert 2021 👻
+## Philipp Aubert 2021 :blush:
 
