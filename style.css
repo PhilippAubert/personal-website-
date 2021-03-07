@@ -27,12 +27,12 @@ body {
   grid-column: 2 / 3;
   grid-row: 1 / 2;
   padding: 10px;
-  background: #ccc;
-  color: #000;
+  background: rgb(53, 49, 108, 0.3);
+  color: rgb(197, 0, 1);
 }
 
 .header-grid a {
-  color: #000;
+  color: rgb(197, 0, 1);
 }
 
 .header-grid h1 {
@@ -53,7 +53,7 @@ body {
   display: inline;
   font-size: 1.3em;
   margin-right: 50px;
-  border-bottom: 1px solid #000;
+  border-bottom: rgb(197, 0, 1);
 }
 
 .main-grid {
@@ -62,7 +62,7 @@ body {
 }
 
 .wrapper {
-  background-color: #ccc;
+  background-color: rgb(53, 49, 108, 0.3);
   padding: 2%;
   height: 600px;
 }
@@ -89,21 +89,21 @@ body {
 }
 
 .text h2 {
-  background-color: #000;
-  color: #ccc;
+  background-color: rgb(53, 49, 108, 0.6);
+  color: rgb(197, 0, 1);
   margin-top: 22px;
 }
 
 .text p {
-  background-color: #ccc;
-  color: #000;
+  background-color: rgb(53, 49, 108, 0.3);
+  color: rgb(197, 0, 1);
   padding: 2%;
   font-style: normal;
 }
 
 #bio {
-  background-color: #ccc;
-  color: #000;
+  background-color: rgb(53, 49, 108, 0.3);
+  color: rgb(197, 0, 1);
   margin-top: 20px;
 }
 
@@ -112,8 +112,8 @@ body {
 }
 
 .bioline h2 {
-  background-color: #000;
-  color: #ccc;
+  background-color: rgb(53, 49, 108, 0.6);
+  color: rgb(197, 0, 1);
   width: 48%;
   margin-left: 20px;
 }
@@ -131,14 +131,14 @@ body {
 }
 
 .contact-box {
-  background-color: #ccc;
-  color: #000;
+  background-color: rgb(53, 49, 108, 0.3);
+  color: rgb(197, 0, 1);
   display: flex;
   padding: 1%;
 }
 
 .contact-box a {
-  color: #000;
+  color: rgb(197, 0, 1);
 }
 
 .contact-box h2 {
@@ -155,25 +155,24 @@ body {
 }
 
 .analog h2 {
-  background-color: #000;
-  color: #ccc;
+  background-color: rgb(53, 49, 108, 0.3);
+  color: ;
 }
-
 .socialmedia {
   width: 48%;
   float: right;
 }
 
 .socialmedia h2 {
-  background-color: #000;
-  color: #ccc;
+  background-color: rgb(53, 49, 108, 0.6);
+  color: rgb(197, 0, 1);
 }
 
 .footer-grid {
   grid-column: 2 / 3;
   grid-row: 3 / 4;
-  background-color: #ccc;
-  color: #000;
+  background-color: rgb(53, 49, 108, 0.6);
+  color: rgb(197, 0, 1);
 }
 
 .copy {
@@ -187,5 +186,5 @@ body {
 }
 
 .back a {
-  color: #000;
+  color: rgb(197, 0, 1);
 }
