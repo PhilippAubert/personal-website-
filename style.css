@@ -11,7 +11,8 @@ a {
 }
 
 body {
-  background: #000;
+  background: url(IMG_5170.JPG);
+  position: center;
 }
 
 .layout-grid {
