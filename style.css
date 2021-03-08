@@ -15,7 +15,7 @@ a {
 }
 
 body {
-  background: url("IMG_5170.jpg");
+  background: #000; /*url("IMG_5170.jpg");*/
 }
 
 .layout-grid {
